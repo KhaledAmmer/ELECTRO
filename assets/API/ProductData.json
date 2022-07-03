@@ -1,0 +1,67 @@
+{
+  "Labtop": [
+    { 
+      "id":0,
+      "name": "ASUS TUF Dash F15 FX516PE (2021)",
+      "img": "https://citycenter.jo/image/cachewebp/catalog/32021/dash-1200x1200.webp",
+      "price": "JOD 859",
+      "details": "ASUS TUF Dash F15 FX516PE-HN004T 11Gen Intel Core i5 up to 4.4GHz 8M Cash 4-Cores , 8GB RAM DDR4 , 512GB M.2 NVMe™ PCIe® 3.0 SSD , 15.6 IPS Full HD sRGB 62.5% Adobe 47.34% 144Hz , Nvidia RTX 3050 TI 4GB DDR6 , Wireless , Bluetooth , Backlit RGB Arabic / English Keyboard , Windows 10 Home"
+    },
+    {
+      "id":1,
+      "name": "Predator Helios 300",
+      "img": "https://d1rlzxa98cyc61.cloudfront.net/catalog/product/cache/1801c418208f9607a371e61f8d9184d9/1/7/173484_2020_2.jpg",
+      "price": "JOD 1149",
+      "details": "Predator Helios 300 11Gen Intel Core i7 8-Core up to 4.6GHz 24M Cashe , 16GB DDR4 RAM ,  1TB SSD M.2 2280 PCIe NVMe + 1TB HDD ,  Nvidia RTX 3060 6GB GDDR6,   15.6 Full HD IPS ComfyView 144Hz , Camera , Wireless , Bluetooth , RGB Backlit Arabic / English , Dos"
+    },
+    {
+      "id":6,
+      "name": "HP ENVY 15 15-ep1000ne (2021)",
+      "img": "https://citycenter.jo/image/cachewebp/catalog/042022/envi95-550x400.webp",
+      "price": "JOD 1799",
+      "details": "HP ENVY 15 15-ep1000ne 11Gen Core i9 up to 4.9GHz 24M Cash 8-Cores , 32GB RAM DDR4 , 1 TB PCIe® NVMe™ TLC M.2 SSD , 15.6 IPS Full HD Edge-to-Edge Glass, Micro-Edge, 400 nits 100% sRGB Multi Touch Screen , NVIDIA® GeForce RTX™ 3060 Laptop GPU (6 GB GDDR6 dedicated) , Wireless , Bluetooth , Backlit Arabic / English Keyboard , Windows 10 Home"
+    },
+    {
+      "id":7,
+      "name": "ASUS TUF F15 FX506HCB (2021)",
+      "img": "https://citycenter.jo/image/cachewebp/catalog/92021/fxx506-550x400.webp",
+      "price": "JOD 819",
+      "details": "ASUS TUF F15 FX506HCB-HN200W 11Gen Core i5 6-Core up to 4.5GHz 12M Cashe , 16GB DDR4 RAM ,  512GB M.2 NVMe™ PCIe® 3.0 SSD ,  Nvidia GeForce RTX 3050 4GB DDR6 ,  15.6 Full HD IPS Anti-glare 144Hz 62.5% sRGB , Camera , Wireless ,Bluetooth , RGB Backlit English Keyboard , Windows 11 Home"
+    }
+    
+  ],
+
+  "Desktop": [
+    {
+      "id":2,
+      "name": "Acer Veriton VES2740G",
+      "img": "https://citycenter.jo/image/cachewebp/catalog/32022/00vert-1200x1200.webp",
+      "price": "JOD 500",
+      "details": "Acer Veriton VES2740G Desktop 10Gen Core i5-10400 up to 4.3GHz 6-Cores 12MB Cashe ,  4GB DDR4 RAM (Upgradable)  , Optional M.2 SSD + 1000GB HDD , DVD RW , Keyboard + Mouse USB , Free Dos"
+    },
+    {
+      "id":3,
+      "name": "Lenovo All-in-One V50a-24IMB",
+      "img": "https://citycenter.jo/image/cachewebp/catalog/122020/V243-1200x1200.webp",
+      "price": "JOD 899.00",
+      "details": "Lenovo All-in-One V50a-24IMB 10Gen Core i7 up to 4.5GHz 16M 8-Cores , 8GB RAM DDR4 , 512GB SSD M.2 2242 PCIe NVMe , 24 IPS FHD Touch Screen Antiglare Monitor, DVD RW, Intel UHD Graphics 630 Graphic Card , Camera  , Wireless  , Bluetooth , USB Keyboard Arabic / English , USB Mouse, Dos."
+    }
+  ],
+
+  "Tablet": [
+    {
+      "id":4,
+      "name": "Huawei MatePad 11 (2021) ",
+      "img": "https://citycenter.jo/image/cachewebp/catalog/22022/00mat-1200x1200.webp",
+      "price": "JOD 360",
+      "details": "Octa-core (1x2.84 GHz Kryo 585 & 3x2.42 GHz Kryo 585 & 4x1.8 GHz Kryo 585) , 6GB RAM , 128GB Storage , 11.0 IPS 2K ( 2560X1600 ) 120hZ (~276 ppi density) Display , Adreno 650 Graphic  , 13 MP Rear & 8 MP Camera , WIFI  , Bluetooth 5.1 , Li-Po 7250 mAh Battery , HarmonyOS 2.0"
+    },
+    {
+      "id":5,
+      "name": "Lenovo Tab M8 HD (2nd Gen)",
+      "img": "https://citycenter.jo/image/cachewebp/catalog/22022/M888-1200x1200.webp",
+      "price": "JOD 109",
+      "details": "MediaTek Helio A22 2.0Ghz (4C, 4x A53)  , 3GB Soldered LPDDR3 , 32GB Storage , 8.0 IPS HD (1280 x 800) pixels 350nits Display , 5 MP Rear & 2 MP Front Camera , Integrated IMG PowerVR GE-class GPU Graphics , WIFI + 4 GB SIM Card , Bluetooth 5.0 , Li-Po 5100 mAh Battery , Andriod 10"
+    }
+  ]
+}
